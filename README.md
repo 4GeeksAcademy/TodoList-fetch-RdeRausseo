@@ -10,7 +10,7 @@ Start coding a react application
 
 ## How to start coding?
 
-- Install the packages with `$ npm install`.
+- Install the packages with `$ npm install`
 - Run the webpack server with `$ npm run start`
 
 You can update the `styles/index.css` or `js/index.js` depending on your needs.
